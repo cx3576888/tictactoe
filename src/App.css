@@ -1,0 +1,14 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: min(10vw, 10vh) 0 0 0;
+}
+
+.game-info {
+  text-align: center;
+  font-size: min(5vw, 5vh);
+  width: 100vw;
+}
+
+.game-button {
+  font-size: min(4vw, 4vh);
+}
